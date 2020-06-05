@@ -5,7 +5,7 @@ import Prices from "../components/Prices";
 const Index = (props) => (
     <Layout>
         <div>Hello, world</div>
-        <Prices data ={props.data} />
+        <Prices data ={props.data } />
     </Layout>
 );
 
