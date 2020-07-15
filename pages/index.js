@@ -6,6 +6,7 @@ const Index = (props) => (
     <Layout>
         <div>Hello, world</div>
         <Prices data ={props.data } />
+				<input type="file" accept="image/*" capture="camera"/>
     </Layout>
 );
 
