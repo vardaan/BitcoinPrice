@@ -1,1 +1,1 @@
-# BitcoinPrice
+# BitcoinPrice - An Amazing Project
